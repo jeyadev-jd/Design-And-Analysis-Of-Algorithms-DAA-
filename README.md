@@ -59,3 +59,15 @@ Feel free to use and share this for your studies, but please give credit to Anan
 ---
 
 Thanks for stopping by! Let’s ace algorithms together! 🚀💻
+
+---
+
+## Author
+
+**Jeyadev R** · AI/ML Engineer & Full-Stack Developer · Chennai, India
+
+- Portfolio: [jeyadev.dev](https://jeyadev.dev)
+- GitHub: [@jeyadev-jd](https://github.com/jeyadev-jd)
+- LinkedIn: [r-jeyadev](https://www.linkedin.com/in/r-jeyadev)
+
+If this project is useful to you, a ⭐ on the repo helps others find it.

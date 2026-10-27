@@ -1,5 +1,7 @@
 # Design And Analysis Of Algorithm : Student’s Complete Guide
 
+> 🔗 **[Project page, demo and write-up on jeyadev.dev](https://jeyadev.dev/projects/design-and-analysis-of-algorithms-study-guide)**: Student guide to 16 classic algorithms with C code, by [Jeyadev R](https://jeyadev.dev), AI engineer in Chennai.
+
 Hey everyone! 👋
 
 This repo has a detailed PDF study guide for some of the most important algorithms and classic problems from Anany Levitin’s famous textbook — *Introduction to the Design and Analysis of Algorithms (3rd Edition)*.
